@@ -17,3 +17,6 @@ I'm an egotistical bastard, and I name all my projects after myself. First
 Linux, now git.
 
 [2007-06-14]
+
+
+My name is Linus, and I am your God
