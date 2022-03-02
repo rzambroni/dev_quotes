@@ -15,3 +15,4 @@ All quotes are sourced from https://en.wikiquote.org
 - Linus
 - Martin 
 - Larry
+- Alan Kay
